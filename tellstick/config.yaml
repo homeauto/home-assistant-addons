@@ -1,5 +1,5 @@
 ---
-version: 2.2.0
+version: 2.2.1
 slug: tellstick
 name: TellStick local
 description: TellStick and TellStick Duo service
@@ -42,4 +42,3 @@ startup: system
 stdin: true
 usb: true
 init: false
-stage: deprecated

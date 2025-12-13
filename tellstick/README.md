@@ -1,10 +1,6 @@
 # Home Assistant Add-on: TellStick
 
-> [!CAUTION]
-> **Deprecation notice**
-> The library this add-on depends on is abandoned. Its last activity was 5
-> years ago and it cannot be built on Alpine versions above 3.15. Users can continue
-> using the add-on, but no issues or pull requests will be accepted.
+Now runs on alpine3.17
 
 TellStick and TellStick Duo service.
 

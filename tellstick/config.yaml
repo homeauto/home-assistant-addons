@@ -10,7 +10,7 @@ arch:
   - aarch64
   - amd64
   - i386
-image: homeauto/home-assistant-addons
+image: homeaauto/home-assistant-addons
 options:
   devices:
     - house: A

@@ -1,12 +1,12 @@
 ---
-version: 2.2.4
+version: 2.2.1
 slug: tellstick
 name: TellStick
 description: TellStick and TellStick Duo service
 url: https://github.com/homeauto/home-assistant-addons
 arch:
   - aarch64
-#image: homeaauto/home-assistant-addons
+image: homeaauto/home-assistant-addons
 options:
   devices:
     - house: A
